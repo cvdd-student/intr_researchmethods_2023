@@ -1,4 +1,4 @@
-# Has the frequency of English first person singular pronouns (FPSP) (I, my, mine, me) changed on Twitter as time passes?
+# Has the frequency of Dutch first person singular pronouns (FPSP) (ik, mij, mijn, me) changed on Twitter as time passes?
 
 ### Topic: 
 
@@ -19,7 +19,7 @@ Could the frequency of FPSP shed more light on that?
 
 ### Variables:
 
-1. N-gram of FPSP in English Twitter data (dependent)
+1. N-gram of FPSP in Dutch Twitter data (dependent)
 2. Year of the Tweets' writing (independent)
 3. N-gram of overall pronouns as a baseline (dependent)
 
