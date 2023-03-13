@@ -26,3 +26,7 @@ Could the frequency of FPSP shed more light on that?
 ### Hypotheses:
 
 We'll get back to you on that.
+
+### Hypotheses:
+
+Dataset is obtained from the RUG Dutch Tweet database. All Tweets are taken from January 15th 2013-2023. In particular, the tenth file for each day is chosen to maintain consistency.
